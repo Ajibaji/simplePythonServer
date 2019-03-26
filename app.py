@@ -8,4 +8,4 @@ def hello():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=40072, debug=True)
+    app.run(host='0.0.0.0', port=50654, debug=True)
